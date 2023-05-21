@@ -35,5 +35,16 @@ Refresh the web page in your browser to see the updated changes.
 2. Make sure all links are functional
 3. Make sure that img tags have accessible alt attributes
 
+  ## Credits
+  Evince Edouard
+
+## Questions
+If you have any questions or need further assistance, please don't hesitate to reach out. I'm here to help!
+
+Feel free to contact me through the following channels:
+
+GitHub: [https://github.com/EEdouard28]
+I'll be glad to provide any clarification or support related to this project.
+
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code in this repository.

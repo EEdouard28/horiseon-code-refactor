@@ -12,7 +12,7 @@ The refactor was created in order to make this website more accessible without d
 
 To visit site, navigate to the following HTTP address:
 
-## Screenshot
+
 
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/111817163/191649699-ef353bc9-04c1-48f3-9d7e-dd11a959f4b0.png)
 
